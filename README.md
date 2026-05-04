@@ -17,19 +17,6 @@ Building real-world systems, not just UI.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ali-nextjs&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-nextjs&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=ali-nextjs&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Featured Projects
 
 ### ⚡ TRON Smart Transfer
@@ -73,6 +60,20 @@ Building scalable frontend systems with real product logic.
 
 LinkedIn:  
 https://www.linkedin.com/in/ali-moghadasigholami-69253a339/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ali-nextjs&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-nextjs&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=ali-nextjs&theme=tokyonight" />
+</p>
+
 
 ---
 

@@ -56,13 +56,6 @@ Building scalable frontend systems with real product logic.
 
 ---
 
-## 📫 Contact
-
-LinkedIn:  
-https://www.linkedin.com/in/ali-moghadasigholami-69253a339/
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -74,7 +67,12 @@ https://www.linkedin.com/in/ali-moghadasigholami-69253a339/
   <img height="150" src="https://streak-stats.demolab.com?user=ali-nextjs&theme=tokyonight" />
 </p>
 
-
 ---
+
+## 📫 Contact
+
+LinkedIn:  
+https://www.linkedin.com/in/ali-moghadasigholami-69253a339/
+
 
 ⭐ If you find my work useful, consider starring the repositories.

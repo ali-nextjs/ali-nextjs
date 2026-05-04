@@ -14,3 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Ali 👋
+
+Frontend Developer focused on building real-world systems.
+
+---
+
+## 🚀 Projects
+
+### 🔹 TRON Smart Transfer
+Smart transaction system for TRON network  
+- Wallet connection  
+- Energy estimation  
+- Smart routing  
+👉 https://github.com/ali-nextjs/tron-smart-transfer
+
+---
+
+### 🔹 Visual Production Panel
+Content-to-visual automation dashboard  
+- Modular UI system  
+- Workflow engine  
+- Production-ready structure  
+👉 https://github.com/ali-nextjs/visual-production-panel
+
+---
+
+## 🛠 Tech Stack
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+---
+
+## 🎯 Focus
+Building scalable frontend systems and real product logic.
+
+---
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/ali-moghadasigholami/
